@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+.water{
+    margin-top: -50px;
+    margin-left: -90px;
+    width: 370px;
+}
+
+.brain_water{
+    margin-top:-25px;
+    width: 370px;
+}
+
+.drink_water{
+    margin-left:-45px;
+    width: 370px;
+}
+.brain{
+    margin-left:-45px;
+    width: 370px;
+}

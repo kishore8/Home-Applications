@@ -1,0 +1,26 @@
+
+.rowpad{
+    padding: 50px;
+}
+
+
+.para,.heading{
+    font-size: 60px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.count{
+    font-size: 150px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: -50px
+}
+
+.buttonActions{
+    width: 200px;
+    border: none;
+    height: 90px;
+    cursor: pointer;
+    border-radius: 25px;
+}
